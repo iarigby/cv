@@ -69,10 +69,9 @@ education:
       university: ბუდაპეშტის ბიზნეს სკოლა
       time: 2015 - 2016 (one semester)
       details: |
-        განხრა შევიცვალე რამდენიმე მიზეზის გამო
-          - არ მომწონს ბიზნესისა და მარკეტინგის კარიერული გარემო
-          - მიყვარს მათემატიკა
-          - არ მომწონდა უნივერსიტეტი
+        განხრა შევიცვალე რამდენიმე მიზეზის გამო: არ მომწონს ბიზნესისა და მარკეტინგის კარიერული გარემო;
+        მიყვარს მათემატიკა; მომწონს, რომ ამ სფეროში მარტივად შემიძლია ნებისმიერი რამის შექმნა;
+        არ მომწონდა უნივერსიტეტი.
 
     - degree: ბიზნესის ადმინისტრირება
       university: თავისუფალი უნივერსიტეტი, იესემის სკოლა
@@ -82,11 +81,11 @@ education:
         რომ დროებით საქართველოდან წასვლა მჭირდებოდა და დავთანხმდი სტიპენდიით
         ბუდაპეშტი გამგზავრებას
 
-experiences_title:
+experiences_title: სამუშაო გამოცდილება
 experiences:
-    - role: Student Developer
-      time: 2019 Feb - 2019 Jul
-      company: Ericsson, Budapest Unit
+    - role: სტუდენტი დეველოპერი
+      time: 2019 თებ. - 2019 ივლ.
+      company: ერიქსონი, ბუდაპეშტის კამპუსი
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -101,10 +100,11 @@ experiences:
           - Bullet point
           - Bullet point
 
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: უმცროსი Scala დეველოპერი
+      time: 2014 მარტი - 2015
+      company: Wanari, ბუდაპეშტი
       details: |
+
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
         Cum sociis natoque penatibus et magnis dis parturient montes,
@@ -114,10 +114,18 @@ experiences:
           - Bullet point
           - Bullet point
 
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: საქმიანობა პროგრამირებამდე
+      time: 2014 - 2016
       details: |
+          - მარკეტინგი და სოციალური მედია, არასამთავრობო ორგანიზაცია Educare Georgia.
+          ეს კომპანია მუშაობს საერთაშორისო დონის განათლების ქართველი ახალგაზრდებისთვის გაზიარებაზე.
+          გუნდის მიერ ნათარგმნია ისეთი პროექტები, როგორიცაა ხანის აკადემია და code.org, ასევე მათი გაკეთებულია
+          საქველმოქმედო პროექტი ჩართე (კომპიუტერებითა და ინტერნეტით დახმარება სოციალურად დაუცველი ახალგაზრდებისთვის).
+          სანამ სოციალურ მედიაზე ამიყვანდნენ, მოხალისეობრივად და შემდეგ ნახევარ განაკვეთზე მონაწილეობა
+          მივიღე ხანის აკადემიის თარგმნაშიც.
+          - მარკეტინგის მენეჯერი startup-ების ჯგუფ პოტერსში. ჩემს მოვალეობებში შედიოდა
+          სოციალური მედიისა და მარკეტინგულ სტრატეგიებზე მუშაობა რამდენიმე კომპანიასთან:
+            eventer, wifisher, allads.
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
         Cum sociis natoque penatibus et magnis dis parturient montes,
