@@ -87,18 +87,14 @@ experiences:
       time: 2019 თებ. - 2019 ივლ.
       company: ერიქსონი, ბუდაპეშტის კამპუსი
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-
-          - Bullet point
-          - Bullet point
+        ჩემი გუნდის დიდი ნაწილი შედგებოდა მეცნიერების დოქტორებისა და დოქტორანტურის
+        სტუდენტებისგან, მათ გარდა ვიყავით ბაკალავრისა და მაგისტრატურის რამდენიმე სტუდენტი.
+        გუნდის სამუშაო მიმართულება იყო დღეისთვის საუკეთესო და ღია კომპაილერი clang
+        (LLVM ინფრასტრუქტურის ნაწილი). შედეგად, აქტიურად ვუშაობდით ისეთი კომპანიების
+        მაღალი რანგის ინჟინრებთან, როგორიცაა Apple, Google.
+        ჩემს მოვალეობაში შედიოდა:
+          - სამეცნიერო პროექტზე მუშაობა (დეტალები საბაკალავრო თეზისში)
+          - ერიქსონისთვის კვლევის ჩატარება Evaluation of Java Static Analysis Tools
 
     - role: უმცროსი Scala დეველოპერი
       time: 2014 მარტი - 2015
@@ -126,14 +122,6 @@ experiences:
           - მარკეტინგის მენეჯერი startup-ების ჯგუფ პოტერსში. ჩემს მოვალეობებში შედიოდა
           სოციალური მედიისა და მარკეტინგულ სტრატეგიებზე მუშაობა რამდენიმე კომპანიასთან:
             eventer, wifisher, allads.
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
 
 projects:
     title: Projects
