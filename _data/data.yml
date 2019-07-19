@@ -136,20 +136,17 @@ experiences:
             eventer, wifisher, allads.
 
 projects:
-    title: Projects
+    title: ჯილდოები და მიღწევები
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
 
     assignments:
-      - title: Velocity
+      - title: EFOP კვლევის გრანტი
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "მივიღე საკუთარ თეზისზე და ერიქსონის კვლევით პროექტზე დამატებითი დაფინანსებისთვის"
 
-      - title: DevStudio
+      - title: მონაწილის პრეზენტაცია, Central European Summer Programming School
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "სექცია ძირითადად შედგებოდა დოქტორანტი სტუდენტების პრეზენტაციებისგან. შემოდგომაზე იგეგმება სამეცნიერო ნაშრომის პუბლიკაცია."
 
       - title: Tempo
         link: "#"
@@ -163,25 +160,6 @@ projects:
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-publications:
-    title: Accomplishments
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-
-    papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
