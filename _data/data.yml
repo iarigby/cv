@@ -47,15 +47,15 @@ sidebar:
         link:
 
 career-profile:
-    title: Career Profile
+    title: CV თავისუფალი უნივერსიტეტისთვის
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-
-      Second paragraph if required.
+      უნივერსიტეტში მუშაობის დაწყება მინდა იმიტომ, რომ საკუთარი თავი აკადემიურ
+      სივრცეში უფრო წარმომიდგენია, ვიდრე კერძო სექტორში. გარდა იმისა, რომ მაინტერესებს
+      სამეცნიერო კვლევები და მუდმივად ახალი ცოდნის მიღება, მიყვარს, როდესაც სხვებს
+      ვუზიარებ ჩემს ენთუზიაზმს მათემატიკისა და პროგრამირებისადმი და ვეხმარები რთული საკითხების
+      გააზრებაში. ასევე დიდი მოტივაცია მაქვს
+      სტუდენტებისთვის სასწავლო ინფრასტრუქტურის გაუმჯობესებასა და კურიკულუმის მიღმა
+      მეტი ცოდნისა და უნარების მიწოდებაში.
 
 education_title: განათლება
 education:
@@ -148,40 +148,6 @@ projects:
         link: "#"
         tagline: "სექცია ძირითადად შედგებოდა დოქტორანტი სტუდენტების პრეზენტაციებისგან. შემოდგომაზე იგეგმება სამეცნიერო ნაშრომის პუბლიკაცია."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-
-skills:
-    title: Skills &amp; Proficiency
-
-    toolset:
-      - name: C++ and LLVM
-        level: 60%
-
-      - name: Scripting (python, bash)
-        level: 35%
-
-      - name: Linux
-        level: 60%
-
-      - name: NodeJS and Javascript
-        level: 35%
-
-      - name: Functional Programming
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
