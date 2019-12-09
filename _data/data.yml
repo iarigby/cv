@@ -45,7 +45,12 @@ sidebar:
 career-profile:
     title: about me
     summary: |
-      I recently finished my Bachelors in Computer Science
+      Hi, I'm a recent Computer Science graduate currently teaching programming at University and to school
+      age children. I enjoy working with students, but would like to spend my remaining free time
+      on more challenging projects (preferably research) that would expose me to other
+      fields of science.
+      I'm very enthusiastic about applying my programming and development skills
+      and at the same time diversifying my knowledge in other areas.
       
 education_title: Education
 education:
@@ -100,8 +105,9 @@ projects:
     assignments:
       - title: EFOP research grant
         link: "#hook"
-        tagline: ""
+        tagline: "For my thesis work and research project at Ericsson."
 
       - title: Participant panel, Central European Summer Programming School
         link: "#"
-        tagline: "Presented my thesis to participants"
+        tagline: "Presented my thesis to participants and attendees at panel
+        mostly comprised of PhD students."
