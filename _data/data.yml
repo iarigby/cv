@@ -35,6 +35,13 @@ sidebar:
       - idiom: Russian
         level: Intermediate
 
+    interests_title: Interests:
+    interests:
+      - Open Source
+      - Linux, self hosting
+      - Music
+      - Biology
+
 career-profile:
     title: about me
     summary: |
