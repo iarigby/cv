@@ -7,8 +7,8 @@ sidebar:
     education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: ია მღვდლიაშვილი
-    tagline: პროგრამისტი
+    name: Ia Mghvdliashvili
+    tagline: programmer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -24,117 +24,77 @@ sidebar:
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
-    languages_title: ენები
+    languages_title: Languages
     languages:
-      - idiom: ქართული
-        level: მშობლიური
+      - idiom: Georgian
+        level: native
 
-      - idiom: ინგლისური
-        level: სრულყოფილად
+      - idiom: English
+        level: Fluent
 
-      - idiom: რუსული
+      - idiom: Russian
         level: Intermediate
 
 career-profile:
-    title: CV თავისუფალი უნივერსიტეტისთვის
+    title: about me
     summary: |
-      უნივერსიტეტში მუშაობის დაწყება მინდა იმიტომ, რომ საკუთარი თავი აკადემიურ
-      სივრცეში უფრო წარმომიდგენია, ვიდრე კერძო სექტორში. გარდა იმისა, რომ მაინტერესებს
-      სამეცნიერო კვლევები და მუდმივად ახალი ცოდნის მიღება, მიყვარს, როდესაც სხვებს
-      ვუზიარებ ჩემს ენთუზიაზმს მათემატიკისა და პროგრამირებისადმი და ვეხმარები რთული საკითხების
-      გააზრებაში. ასევე დიდი მოტივაცია მაქვს
-      სტუდენტებისთვის სასწავლო ინფრასტრუქტურის გაუმჯობესებასა და კურიკულუმის მიღმა
-      მეტი ცოდნისა და უნარების მიწოდებაში.
+      todo
 
-education_title: განათლება
+education_title: Education
 education:
-    - degree: BSc კომპიუტერულ მეცნიერებებში
-      university: ELTE, ბუდაპეშტი
+    - degree: BSc in Computer Science
+      university: ELTE, Budapest
       time: 2016 - 2019
       details: |
-        საშუალო ქულა 4.8 5.0-დან. საბაკალავრო თეზისსა და მის დაცვაში მივიღე სრულყოფილი (5/5) შეფასება.
-        უნივერსიტეტში ყოფნისას ჩემი საქმიანობა:
-          - სამეცადინო რესურსების ორგანიზება და გაზიარება კურსელებისა და უმცროსი სტუდენტებთვის,
-          სამეცადინო ჯგუფების ორგანიზება, საკონტაქტოდ ონლაინ პლათფორმის ორგანიზება
-          - ასისტენტი ფუნქციური პროგრამირების საგანში. ამ დროს შევქმენი პროგრამა, რომელიც სტუდენტებს
-          უადვილებდა კოდის წერას და დატესტვას, ხოლო სხვა ასისტენტებს უადვილებდა დავალებების შესწორებას
+        Graduated with outstanding degree. Thesis topic: "Automated test case generation using fuzzing in c++"
 
-    - degree: მარკეტინგი და კომუნიკაციები
-      university: ბუდაპეშტის ბიზნეს სკოლა
-      time: 2015 - 2016 (ერთი სემესტრი)
+    - degree: Marketing and Communications
+      university: Budapest Business School
+      time: 2015 - 2016 (one semester)
       details: |
-        განხრა შევიცვალე რამდენიმე მიზეზის გამო: არ მომწონს ბიზნესისა და მარკეტინგის კარიერული გარემო;
-        მიყვარს მათემატიკა; მომწონს, რომ ამ სფეროში მარტივად შემიძლია ნებისმიერი რამის შექმნა;
-        არ მომწონდა უნივერსიტეტი.
+        Even though I decided to pursue studies in Computer Science,
+        learning communications was very interesting and insightful
 
-    - degree: ბიზნესის ადმინისტრირება
+
+    - degree: Business Administration
       university: თავისუფალი უნივერსიტეტი, იესემის სკოლა
-      time: 2014 - 2015
+      time: 2014 - 2015 (one year)
       details: |
-        მიუხედავად იმისა, რომ უნივერსიტეტში ძალიან ბედნიერი ვიყავი, გადავწყვიტე,
-        რომ დროებით საქართველოდან წასვლა მჭირდებოდა და დავთანხმდი სტიპენდიით
-        ბუდაპეშტი გამგზავრებას
+        Decided to accept the Stipendium Hungaricum scholarship and moved to Budapest
 
-experiences_title: სამუშაო გამოცდილება
+experiences_title: Work Experience
 experiences:
-    - role: სტუდენტი დეველოპერი
-      time: 2019 თებ. - 2019 ივლ.
-      company: ერიქსონი, ბუდაპეშტის კამპუსი
+    - role: Student Developer
+      time: 2019 Feb. - 2019 Jul.
+      company: Ericsson House Budapest
       details: |
-        ჩემი გუნდის დიდი ნაწილი შედგებოდა მეცნიერების დოქტორებისა და დოქტორანტურის
-        სტუდენტებისგან, მათ გარდა ვიყავით ბაკალავრისა და მაგისტრატურის რამდენიმე სტუდენტი.
-        ეს იყო კომპანიაში ყველაზე რთულად მოსახვედრი გუნდი და ძალიან ვამაყობ, რომ მისი წევრი გავხდი.
-        გუნდის სამუშაო მიმართულება იყო დღეისთვის საუკეთესო და ღია კომპაილერი clang-ის გაფართოვება
-        (LLVM ინფრასტრუქტურის ნაწილი). შედეგად, აქტიურად ვუშაობდით ისეთი კომპანიების
-        მაღალი რანგის ინჟინრებთან, როგორიცაა Apple, Google.
-        ჩემს მოვალეობაში შედიოდა:
-          - სამეცნიერო პროექტზე მუშაობა (დეტალები საბაკალავრო თეზისში)
-          - ერიქსონისთვის კვლევის ჩატარება Evaluation of Java Static Analysis Tools
+        I joined a team of researchers (working on LLVM and clang with Apple, Google)
+        as part of my bachelors thesis. Other than that, I was working on
+        evaluating static analysis tools for Java.
 
-    - role: უმცროსი Scala დეველოპერი
+    - role: Teaching Assistant in functional programming
+      time: 2018 Sept - 2019 Jan
+      company: ELTE
+      details: |
+        Hold consultations, evaluate homeworks. Additionally, I created a web front-end along with
+        automatic testers end for the compiler used in the subject (Clean lang).
+    - role: Junior Scala Developer
       time: 2014 - 2015
-      company: Wanari, ვებ და ქლაუდ დეველოპმენტის კომპანია, ბუდაპეშტი
+      company: Wanari, Web and Cloud Development Company, Budapest
       details: |
-        ჩემი კომპანიაში ყოფნის მანძილზე ვიმუშავე ორ პროექტზე დამოუკიდებლად (უფროსი დეველოპერების
-        ხელმძღვანელობით) და ორ პროექტზე გუნდთან ერთად. კმაყოფილი ვიყავი იმით, რომ გავეცანი ვებ
-        დეველოპმენტის ბევრ სხვადასხვა მიმართულებას
-        და ასევე გამოცდილება მივიღე ფუნქციურ ენასა და მის არაჩვეულებრივ ბიბლიოთეკებში (shapeless, akka: streams, actor system, http).
-        კომპანია დავტოვე იმის გამო, რომ მინდოდა უფრო მეცნიერულ გარემოში გამეტარებინა დრო
-        და მიმეღო გამოცდილება ტექნიკურად რთულ საკითზებზე მუშაობაში.
+        Worked mostly with Scala and its frameworks (shapless, akka). Left to devote more
+        time to my thesis and join Ericsson.
 
-    - role: საქმიანობა პროგრამირებამდე
-      time: 2014 - 2016
-      company: სხვადასხვა კომპანიები, sasda
-      details: |
-        უნგრეთში ყოფნის დასაწყისში დისტანციურად ვმუშაობდი რამდენიმე კომპანიაში
-          - არასამთავრობო ორგანიზაცია Educare Georgia
-
-          მარკეტინგი და სოც მედია
-
-          Educare Georgiaს მიზანია საერთაშორისო დონის განათლება ხელმისაწვდომი გახადოს ქართველი ახალგაზრდებისთვის.
-          გუნდის მიერ ნათარგმნია ისეთი პროექტები, როგორიცაა ხანის აკადემია და code.org, ასევე მათი გაკეთებულია
-          საქველმოქმედო პროექტი ჩართე (კომპიუტერებითა და ინტერნეტით დახმარება სოციალურად დაუცველი ახალგაზრდებისთვის).
-          სანამ სოციალურ მედიაზე ამიყვანდნენ, მოხალისეობრივად და შემდეგ ნახევარ განაკვეთზე მონაწილეობა
-          მივიღე ხანის აკადემიის თარგმნაშიც.
-
-          - startup-ების ჯგუფი პოტერსი.
-
-            მარკეტინგის მენეჯერი
-
-            ჩემს მოვალეობებში შედიოდა სოციალური მედიისა და მარკეტინგულ სტრატეგიებზე მუშაობა რამდენიმე კომპანიასთან:
-          eventer, wifisher, allads.
 
 projects:
-    title: ჯილდოები და მიღწევები
+    title: Awards and Achievements
     intro: >
 
     assignments:
-      - title: EFOP კვლევის გრანტი
+      - title: EFOP research grant
         link: "#hook"
-        tagline: "მივიღე საკუთარ თეზისზე და ერიქსონის კვლევით პროექტზე დამატებითი დაფინანსებისთვის"
+        tagline: ""
 
-      - title: მონაწილის პრეზენტაცია, Central European Summer Programming School
+      - title: Participant panel, Central European Summer Programming School
         link: "#"
-        tagline: "სექცია ძირითადად შედგებოდა დოქტორანტი სტუდენტების პრეზენტაციებისგან. შემოდგომაზე იგეგმება სამეცნიერო ნაშრომის პუბლიკაცია."
-
-
+        tagline: "Presented my thesis to participants"
