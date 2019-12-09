@@ -35,18 +35,18 @@ sidebar:
       - idiom: Russian
         level: Intermediate
 
-    interests_title: Interests:
+    interests_title: Interests
     interests:
-      - Open Source
-      - Linux, self hosting
-      - Music
-      - Biology
+      - item: Open Source
+      - item: Linux, self hosting
+      - item: Music
+      - item: Biology
 
 career-profile:
     title: about me
     summary: |
-      todo
-
+      I recently finished my Bachelors in Computer Science
+      
 education_title: Education
 education:
     - degree: BSc in Computer Science
